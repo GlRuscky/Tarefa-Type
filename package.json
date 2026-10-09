@@ -1,0 +1,14 @@
+{
+  "name": "refatoracao-oo-consumidor",
+  "version": "1.0.0",
+  "description": "Mão na Massa: refatorando type + funções soltas para uma classe TypeScript com construtor, métodos e validações.",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
+  }
+}
